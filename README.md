@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+```ruby
+@person = Person.new(nickname: :footnoise)
+```
+
 <!--
 **footnoise/footnoise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
