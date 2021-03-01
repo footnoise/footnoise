@@ -1,5 +1,5 @@
+![Background Banner](https://raw.github.com/footnoise/footnoise/master/github-background1.jpg)
 ### Hi there 👋
-
 ```ruby
 @person = Person.new(nickname: :footnoise)
 ```
